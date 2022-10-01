@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+Import java.util.Scanner;
 public class Order{
     
     static Scanner scan = new Scanner(System.in);
